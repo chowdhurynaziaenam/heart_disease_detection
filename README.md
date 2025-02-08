@@ -9,7 +9,7 @@ Dataset available at Kaggle: https://www.kaggle.com/datasets/arezaei81/heartcsv
 This project demonstrates the relationship between various health predictors for patients such as age, blood pressure, heart rate, exercise induced angina, presence or absence of heart disease and so on. The major goal was to build a predictive model to identify individuals with heart disease accurately. The tasks of the project included-
 
 1. Exploratory data analysis for numerical and categorical features
-2. Checking for misisng values
+2. Checking for missing values
 3. Finding correlation between variables
 4. Developing predictive model using 9 classifiers to detect individuals with heart disease
 5. Assess performance of classifiers based on Accuracy, ROC score, Recall, F1-score and Precision
