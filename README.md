@@ -44,12 +44,15 @@ The project was executed using Google Colab.
 ## ML models used
 
 The predictive performance of the following six classifiers was assessed:
+* Adaboost
 * Random Forest
 * Support Vector Machine (SVM)
 * Decision Tree
-* K-Nearest Neighbors (K-NN)
+* Nearest Neighbors (K-NN)
 * Logistic Regression
 * Gradient Boosting
+* Naive Bayes
+* Neural Net
 
 
 ## Evaluation Metrics
@@ -59,9 +62,10 @@ The models were evaluated using the following metrics:
 * Recall
 * F1-score
 * Precision
+* Area Under the curve(AUC)
+* ROC( Receiver operating characteristic) curve
 
 ## Results
-
 
 
 
