@@ -47,9 +47,9 @@ The project was executed using Google Colab.
 The predictive performance of the following six classifiers was assessed:
 * Adaboost
 * Random Forest
-* Support Vector Machine (SVM)
+* Support Vector Machine 
 * Decision Tree
-* Nearest Neighbors (K-NN)
+* Nearest Neighbors
 * Logistic Regression
 * Gradient Boosting
 * Naive Bayes
