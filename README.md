@@ -1,6 +1,17 @@
-<b> Heart Disease Detection </b>
-
 This project focused on the analysis of  multivariate type of dataset for heart disease prediction. The project analyses the previous Cleveland dataset of 'UCI Heart disease dataset' obtained from UCI ML repository The dataset consists of 303 entries and 14 attributes which are age, sex, chest pain type, resting blood pressure, serum cholesterol, fasting blood sugar, resting electrocardiographic results, maximum heart rate achieved, exercise-induced angina, ST depression induced by exercise relative to rest, the slope of the peak exercise ST segment, number of major vessels, Thalassemia and target attribute indicating presence or absence of heart disease. No missing values were found in the dataset as each column has 303 non-null entries.
+
+## Table of Contents
+
+* [General overview](#general-overview)
+* [Project Structure](#project-structure)
+* [Environment](#environment)
+* [Libraries & Packages](#libraries-&-packages)
+* [ML models used](#ml-models-used)
+* [Evaluation Metrics](#evaluation-metrics)
+* [Results](#results)
+* [Setup](#setup)
+* [Acknowledgement](#acknowledgement)
+  
 
 Originally dataset available at: https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data
 
