@@ -84,7 +84,7 @@ Originally dataset available at: https://www.kaggle.com/datasets/redwankarimsony
 Dataset available at Kaggle: https://www.kaggle.com/datasets/arezaei81/heartcsv
 
 Creators of dataset:
-Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
-University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
-University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.
-V.A. Medical Center, Long Beach and Cleveland Clinic Foundation: Robert Detrano, M.D., Ph.D.
+* Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
+* University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
+* University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.
+* V.A. Medical Center, Long Beach and Cleveland Clinic Foundation: Robert Detrano, M.D., Ph.D.
