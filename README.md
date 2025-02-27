@@ -1,4 +1,5 @@
 # Prediction on Heart disease 
+
 This project demonstrates the relationship between various health predictors for patients such as age, blood pressure, heart rate, exercise induced angina, presence or absence of heart disease and so on. The major goal was to build a predictive model to identify individuals with heart disease accurately. 
 
 
@@ -27,7 +28,7 @@ The tasks of the project included-
 2. Checking for missing values
 3. Finding correlation between variables
 4. Developing predictive model using 9 classifiers to detect individuals with heart disease
-5. Assess performance of classifiers based on Accuracy, ROC score, Recall, F1-score and Precision
+5. Assess performance of classifiers based on Accuracy, Recall, AUC, ROC Curve, F1-score and Precision
 
 ## Environment
 
@@ -67,7 +68,7 @@ The models were evaluated using the following metrics:
 
 ## Results
 
-
+Adaboost showed highest accuracy of 86.84% and 0.93 recall. Most of the classifiers showed performance above 80%. Nearest neighbours showed lowest performance in terms of both accuracy and f1 score. RF and NB showed recall of 0.91. Neural net and SVM achieved accuracy of 68.42%. Further improvement in the accuracy will be done by doing hyperparameter tuning.
 
 ## Setup
 
