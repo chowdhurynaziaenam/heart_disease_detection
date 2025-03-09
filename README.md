@@ -44,7 +44,7 @@ The project was executed using Google Colab.
   
 ## ML models used
 
-The predictive performance of the following six classifiers was assessed:
+The predictive performance of the following 9 classifiers was assessed:
 * Adaboost
 * Random Forest
 * Support Vector Machine 
